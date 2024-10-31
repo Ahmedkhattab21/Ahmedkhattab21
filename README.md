@@ -1,7 +1,7 @@
 ### Hi👋,I'm Ahmed Muhammed khattab
 
 
- junior flutter developer from Egypt
+  flutter developer from Egypt
 
 Here are some ideas to get you started:
 
