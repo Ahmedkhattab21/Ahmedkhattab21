@@ -1,13 +1,26 @@
-### Hi👋,I'm Ahmed Muhammed khattab
+# Hi 👋, I'm Ahmed Muhammed Khattab
 
+I’m a **Data Analyst & Data Engineer** from Egypt, currently based in Riyadh, Saudi Arabia.  
 
-  flutter developer from Egypt
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently
+I’m exploring opportunities in **Data Analysis, Data Engineering, and Business Intelligence**, while continuously learning **Data Science and Machine Learning**.
 
-🌱 I’m currently Seeking for flutter developer job.
+---
 
-💬 Ask me about Data flutter,firebase ,dart ,Rest Api ,database 
+## 💬 Ask Me About
+- **Data Analysis & Visualization**: Power BI, Excel, SQL  
+- **Programming & Data Engineering**: Python (Pandas, NumPy), ETL, Data Modeling  
+- **Databases & BI Tools**: SQL Server, MySQL, Power Query  
+- **Future Interests**: Machine Learning, AI, Predictive Analytics  
 
-📫 How to reach me ahmedkhattab492001@gmail.com
+---
 
+## 📫 How to Reach Me
+- Email: [ahmedkhattab492001@gmail.com](mailto:ahmedkhattab492001@gmail.com)  
+- LinkedIn: [linkedin.com/in/ahmed-khattab](https://linkedin.com/in/ahmed-khattab)  
+
+---
+
+✨ **Fun Fact:** I have a background in Mobile development, which gives me a unique perspective on technical systems and product analytics.
