@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmed Muhammed Khattab
 
-I’m a **Data Analyst & Data Engineer** from Egypt, currently based in Riyadh, Saudi Arabia.  
+I’m a **Software Engineer  & Data Analyst & Data Engineer** from Egypt, currently based in Riyadh, Saudi Arabia.  
 
 ---
 
